@@ -1,0 +1,131 @@
+<html>
+<head>
+	<title>Partnership</title>
+	<link rel="stylesheet" type="text/css" href="css/style partnership.css">
+	<link rel="shortcut icon" href="images/PT SAMA'S LOGO.png">
+</head>
+<body>
+	<div id="banner" >
+		<header id="logo">
+			<img src="images/PT SAMA'S.png" alt="">
+			<!--<h1>PT. SAMA'S</h1>-->
+			<span id="jobdesc">
+				Solution, Perfection, and Action
+			</span>
+		</header>
+	<div id="overlay"></div>
+	</div>
+	<div class="sidebar">
+		<nav>
+			<ul>
+				<li><a href="partnership">Home</a></li>
+				<li><a href="">About us</a></li>
+				<li><a href="">Profile</a></li>
+				<li><a href="">News</a></li>
+				<li><a href="">Product and Services</a></li>  
+				<li><a href="">Project</a></li> 
+				<li><a href="">Client</a></li>   
+				<li><a href=""></a></li>  
+				<li><a href="">Carrers</a></li>  
+				<li><a href=""></a></li>
+				<li><a href="">Gallery</a></li>    
+			</ul>
+		</nav>
+	</div>
+<section>
+	<div class="section">
+		<div class="content">
+			<div class="box">
+				<img src="images/formulir.png" alt="">
+				<h3>Pengisian Formulir.</h3>
+				<p>Calon karyawan mengisi Formulir. silahkan <a href="FORM PENGISIAN 3.html" title="KLIK">klik disini</a>  </p>
+			</div>
+			<div class="box ">
+				<img src="images/latihan.png" alt="">
+				<h3>Seleksi dan Trial</h3>
+				<p>Setelah calon karyawan selesai mengisi formulir dan menerima kode seleksi, maka calon karyawan akan mengeikuti Seleksi dan Trial di AKADEMI CENTER di kota masing-masing. Setelah Seleksi maka akan diadakan Evaluasi dalam mewujudkan kualitas yang terbaik bagi Perusahaan dan Karyawan. Setalah Evaluasi, akan di lakukan Trial terhadap para karyawan baru. </p>
+			</div>
+			<div class="box ">
+				<img src="images/seleksi.png" alt="">
+				<h3>Promosi.</h3>
+				<p>Para karyawan yang lolos Trial akan langsung dipromosikan ke cabang - cabang.</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!--<div class="gallery">
+	<div class="th"> Partnership:</div> 
+	<div class="box"><a href="https://www.logitech.com/id-id" title="Logitech" desc=""><img src="images/1.png" alt=""></a></div>
+	<div class="box"><a href="http://www.indomilk.com/" title="Indomilk" desc=""><img src="images/2.png" alt=""></a></div>
+	<div class="box"><a href="https://steelseries.com/" title="Gambar 3" desc=""><img src="images/3.png" alt=""></a></div>
+	<div class="box"><a href="https://www.facebook.com/fbgaminghome" title="Gambar 4" desc=""><img src="images/4.png" alt=""></a></div>
+	<div class="box"><a href="https://rog.asus.com/id/" title="Gambar 5" desc=""><img src="images/5.png" alt=""></a></div>
+	<div class="box"><a href="https://www.dxracer.com/" title="Gambar 5" desc=""><img src="images/6.png" alt=""></a></div>
+	<div class="box"><a href="https://www.smartfren.com/" title="Gambar 5" desc=""><img src="images/7.png" alt=""></a></div>
+	<div class="box"><a href="https://www.gojek.com/id-id/" title="Gambar 5" desc=""><img src="images/8.png" alt=""></a></div>
+	<div class="box"><a href="https://www.traveloka.com/en-id/" title="Gambar 5" desc=""><img src="images/9.png" alt=""></a></div>
+	<div class="box"><a href="https://www.intel.co.id/content/www/id/id/homepage.html" title="Gambar 5" desc=""><img src="images/10.png" alt=""></a></div>
+</div>-->
+<!--<div class="gallery">
+	<div class="box"><a href="https://gatsby.co.id/" title="Gambar 1" desc=""><img src="images/11.png" alt=""></a></div>
+	<div class="box"><a href="https://www.indomie.com/homepage" title="Gambar 2" desc=""><img src="images/13.png" alt=""></a></div>
+	<div class="box"><a href="https://www.nike.com/id/" title="Gambar 3" desc=""><img src="images/12.png" alt=""></a></div>
+	<div class="box"><a href="https://www.emirates.com/id/indonesian/" title="Gambar 4" desc=""><img src="images/14.png" alt=""></a></div>
+	<div class="box"><a href="https://www.bca.co.id/id/individu" title="Gambar 5" desc=""><img src="images/15.png" alt=""></a></div>
+	<div class="box"><a href="https://www.nivea.co.id/" title="Gambar 5" desc=""><img src="images/16.png" alt=""></a></div>
+	<div class="box"><a href="https://pt-sinar-kencana-agung.business.site/website/pt-sinar-kencana-agung/" title="Gambar 5" desc=""><img src="images/17.png" alt=""></a></div>
+	<div class="box"><a href="https://www.twitch.tv/" title="Gambar 5" desc=""><img src="images/18.png" alt=""></a></div>
+	<div class="box"><a href="https://www.chevrolet.co.id/" title="Gambar 5" desc=""><img src="images/19.png" alt=""></a></div>
+	<div class="box"><a href="https://www.coca-cola.co.id/id/home" title="Gambar 5" desc=""><img src="images/20.png" alt=""></a></div>
+</div>-->
+<aside class="testimonial">
+	<span> CEO <strong>Muhamad Abila Nurrodin</strong></span>
+	<h3>Success and failure are both part of life. Both are not permanent.</h3>
+</aside>
+<!--<section>
+	<div class="bluetext">
+		Part of Ours :
+	</div>
+</section>-->
+<!--<section>
+	<div class="gallery">
+	<div class="box"><a href="" title="SAMA'S RESTO" desc=""><img src="images/PT SAMA'S RESTO.png" alt=""></a></div>
+	<div class="box"><a href="" title="SAMA'S ENTERTAINMENT" desc=""><img src="images/PT SAMA'S ENTERTAINMENT.png" alt=""></a></div>
+	<div class="box"><a href="" title="SAMA'S CATERING" desc=""><img src="images/PT SAMA'S CATRING.png" alt=""></a></div>
+	<div class="box"><a href="" title="SAMA'S green" desc=""><img src="images/PT SAMA'S green.png" alt=""></a></div>
+	<div class="box"><a href="" title="MAN'S PRODUCTION" desc=""><img src="images/PT SAMA'S PRODUCTION.png" alt=""></a></div>
+	<div class="box"><a href="" title="SAMA'S PROPERTY" desc=""><img src="images/PT SAMA'S PROPERTY.png" alt=""></a></div>
+	<div class="box"><a href="" title="SAMA'S RETAIL" desc=""><img src="images/PT SAMA'S RETAIL.png" alt=""></a></div>
+	<div class="box"><a href="" title="Calidad Primero" desc=""><img src="images/Calidad Primero.png" alt=""></a></div>
+</section>-->
+<!--<section>
+	<div class="gallery">
+	<div class="box"><a href="" title="Gambar 1" desc=""><img src="images/1.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 2" desc=""><img src="images/2.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 3" desc=""><img src="images/3.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 4" desc=""><img src="images/4.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 5" desc=""><img src="images/5.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 5" desc=""><img src="images/6.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 5" desc=""><img src="images/7.png" alt=""></a></div>
+	<div class="box"><a href="" title="Gambar 5" desc=""><img src="images/8.png" alt=""></a></div>
+</section>-->
+<footer>
+	<div class="content">
+		<div class="box">&copy; SAMA'S COMPANY 2023</div>
+		<div class="box">
+			<strong>Find me on:</strong> 
+			<a href="">Facebook</a>
+			<a href="">Twitter</a>  
+			<a href="">Instagram</a>
+			<a href="">Youtube</a>
+			<a href="">TikTok</a>
+			<a href="">LinkedIn</a>
+			<br><br>
+			<strong>Email:</strong>customer.service@sama.s.com</div>
+	</div>
+</footer>
+<script type="text/javascript" src="partnership.js"></script>
+<script>  
+</script>
+</body>
+</html>
